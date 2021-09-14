@@ -4,7 +4,7 @@ class Translation(object):
 I ƈαɳ ʂυρρσɾƚ Hσƚʂƚαɾ, Gσσɠʅҽ Dɾιʋҽ, αɳԃ ɱυƈԋ ɱσɾҽ Lιɳƙʂ😌!
 Sҽɳԃ Mҽ Aɳყ Dιɾҽƈƚ Dσɯɳʅσαԃ URL Lιɳƙ, I Cαɳ Uρʅσαԃ Tσ Tҽʅҽɠɾαɱ Aʂ Fιʅҽ/Vιԃҽσ!
 Aԃԃҽԃ Pҽɾɱαɳҽɳƚ TԋυɱႦɳαιʅ Sυρρσɾƚ💯😋!!
-Sυρρσɾƚ Gɾσυρ : @TeleRoid14
+Sυρρσɾƚ Gɾσυρ : @Tellybots_support
 """
 
     HELP_USER = """It's not that complicated to use meh! 😅
@@ -19,13 +19,13 @@ Sυρρσɾƚ Gɾσυρ : @TeleRoid14
    Video  - Give File as video without Screenshots
    DFile  - Give File without Screenshots
 NB : It is Recommended To Use A Custom Thumbnail Because, Some Time Won't Upload The File Without a Custom Thumbnail.
-Support Group : @TeleRoid14
+Support Group : @Tellybots_support
 """
 
 
-    ABOUT_TEXT = """<b>🤖 My Name : @TeleRoid_Hotstar_Bot</b>
+    ABOUT_TEXT = """<b>🤖 My Name : @Tellyhotstardl_bot</b>
 
-<b>👨‍💻 Creator : @PredatorHackerzZ_bot</b>
+<b>👨‍💻 Creator : @Tellybots_4u</b>
 
 <b>📝 Language : Python3</b>
 
@@ -33,13 +33,13 @@ Support Group : @TeleRoid14
 
 <b>📔 Library : Pyrogram 1.0.7</b>
 
-<b>📌 Source Code : 👉 <a href='https://github.com/P-Phreak/URLuploader-With-Hotstar'>Click Here</a></b>
+<b>📌 Source Code : 👉 <a href='https://t.me/tellybots_digital'>Click Here</a></b>
 
-<b>🛑 Discussion : 👉 <a href='https://t.me/TeleRoid14'> Support Group </a></b>
+<b>⚡Discussion : 👉 <a href='https://t.me/Tellybots_support'> Support Group </a></b>
 
-<b>⭕ Updates : 👉 <a href='https://t.me/TeleRoidGroup'> Channel Group </a></b>
+<b>⭕ Updates : 👉 <a href='https://t.me/Tellybots_4u'> Channel Group </a></b>
 
-<b>💎 Telegram Botlist : <a href='https://t.me/TGRobot_List'> TGRobot_List </a></b>"""
+<b>💎 Telegram Botlist : <a href='https://t.me/Tellybots_4u'> Bots List </a></b>"""
 
 
 
@@ -55,14 +55,14 @@ You can use /deletethumbnail to delete the auto-generated thumbnail."""
 URL | newfilename | username | password"""
 
 
-    UPGRADE_TEXT = """<b>👉 If You Liked Our Bots @TheTeleRoid And Service Feel Free To Donate...Us 🥰</b>
-  If You Want Any Private Bot Or Supscription Feel Free To Contact Me...@PredatorHackerzZ_bot...."""
+    UPGRADE_TEXT = """<b>👉 If You Liked Our Bots @Tellybots_4u And Service Feel Free To Donate...Us 🥰</b>
+  If You Want Any Private Bot Or Supscription Feel Free To Contact Me...@Tellybots_support...."""
     
-    DOWNLOAD_START = "Trying to download to my Server, Wait For Some Time 😇\n\n@TheTeleRoid14"
+    DOWNLOAD_START = "Trying to download to my Server, Wait For Some Time 😇\n\n@Tellybots_4u"
     
     UPLOAD_START = "Trying to upload.....📤"
     
-    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \n\nUploaded in {} seconds.\n\nFor TeleRoid Bots \n\nJoin : @TheTeleRoid and @TGRobot_List"
+    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \n\nUploaded in {} seconds.\n\nFor TeleRoid Bots \n\nJoin : @Tellybots_4u and @Tellybots_support"
 
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nAre You Fool, I cannot upload files greater than 1.95GB due to Telegram API limitations."
 
@@ -72,7 +72,7 @@ URL | newfilename | username | password"""
 
     CUSTOM_CAPTION_UL_FILE = " "
 
-    SLOW_URL_DECED = "Fucking Fool! This seems to be a very slow URL. Since you were screwing my home, I am in no mood to download this file. Meanwhile, why don't you try this:==> https://shrtz.me/PtsVnf6 and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
+    SLOW_URL_DECED = "😐! This seems to be a very slow URL. Since you were screwing my home, I am in no mood to download this file. Meanwhile, why don't you try this:==> https://shrtz.me/PtsVnf6 and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
 
     NO_VOID_FORMAT_FOUND = "ERROR...\n<b>YouTubeDL</b> said: {}"
     
